@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 9,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#5F6368FF",
+        "font" : "Product Sans",
+        "color" : "#5E6369FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#969BA0FF",
+        "font" : "Product Sans",
+        "color" : "#969A9FFF"
+      },
+      "backgroundSelected" : "#E8EAEAFF",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#1B1E22FF",
+        "font" : "Product Sans",
+        "color" : "#1B1E22FF"
+      },
+      "iconPaddingHorizontal" : 9,
+      "roundness" : 12,
+      "paddingVertical" : 9,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#A9D8FFFF",
+      "paddingHorizontal" : 9,
+      "spacing" : 10,
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#1B1E22FF",
+        "font" : "Product Sans",
+        "color" : "#1B1E22FF"
+      },
+      "background" : "#FEFFFE00",
+      "roundness" : 10,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#F8F9F8FF",
+      "paddingHorizontal" : 19,
+      "width" : 1024,
+      "borderPadding" : 0,
+      "borderColor" : "#FF4264FF",
+      "blur" : 0,
+      "roundness" : 20,
+      "paddingVertical" : 15
+    },
+    "credit" : "akharrou",
+    "separator" : {
+      "color" : "#2F313500",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#D3D3D3FF",
+      "thickness" : 2
+    },
+    "name" : "Product (Light)"
+  }
+}
