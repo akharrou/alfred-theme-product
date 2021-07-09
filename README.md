@@ -1,6 +1,4 @@
-# Product
-
-My favorite Alfred theme.
+# Product Theme
 
 ## Preview
 
