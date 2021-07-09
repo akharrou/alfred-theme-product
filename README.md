@@ -1,4 +1,4 @@
-# alfred-theme-product
+# Product
 
 My favorite Alfred theme.
 
