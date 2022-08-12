@@ -4,7 +4,7 @@
       "textSpacing" : 9,
       "subtext" : {
         "size" : 12,
-        "colorSelected" : "#5F6368FF",
+        "colorSelected" : "#8E8E93FF",
         "font" : "Product Sans",
         "color" : "#5E6369FF"
       },
@@ -45,7 +45,7 @@
       "paddingHorizontal" : 19,
       "width" : 1024,
       "borderPadding" : 0,
-      "borderColor" : "#FF4264FF",
+      "borderColor" : "#EE59FFFF",
       "blur" : 0,
       "roundness" : 20,
       "paddingVertical" : 15
